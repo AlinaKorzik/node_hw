@@ -10,6 +10,9 @@
   "author": "Alina Rallo",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^16.0.0"
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "dotenv": "^16.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^4.11.0"
   }
 }
